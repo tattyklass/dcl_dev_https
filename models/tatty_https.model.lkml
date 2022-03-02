@@ -2,6 +2,7 @@ connection: "thelook"
 
 # include all the views
 include: "/views/**/*.view"
+#test commit
 
 datagroup: tatty_https_default_datagroup {
   # sql_trigger: SELECT MAX(id) FROM etl_log;;
